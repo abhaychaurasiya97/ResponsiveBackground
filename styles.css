@@ -1,0 +1,13 @@
+body {
+ background-image: url('background.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+height: 100%;
+}
+h1,h2 {
+  color:skyblue;
+}
+p {
+  color: red;
+}
